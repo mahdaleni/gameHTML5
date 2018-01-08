@@ -1,0 +1,12 @@
+{
+  "framerate": 8,
+  "images": ["spritesheets/hero.png"],
+  "frames": {"width":32, "height":32, "regX":0, "regY":0},
+  "animations": {
+    "down": [0,2],
+    "left": [3,5],
+    "right": [6,8],
+    "up": [9,11],
+    "stand": [1]
+  }
+}
